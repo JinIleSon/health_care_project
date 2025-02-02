@@ -35,8 +35,3 @@
 - Node.js (>= 16.x)
 - MongoDB 또는 PostgreSQL
 - Firebase 또는 AWS 계정 (인증 및 데이터 저장 용도)
-
-### 📥 2. 프로젝트 클론
-```bash
-git clone https://github.com/JinIleSon/health_care_project.git
-cd health_fitness_tracker
